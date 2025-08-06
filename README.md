@@ -11,8 +11,7 @@ Output:
 
 ## Usage
 
-```
-bash
+```bash
 ./simple-interest.sh
 ```
 
